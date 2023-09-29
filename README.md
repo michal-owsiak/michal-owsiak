@@ -1,8 +1,8 @@
 <p align="center">
 <strong>Hi, it's Michał 👋</strong><br />
-<br />
 Frontend Developer with proficiency in React. Skilled in JavaScript, CSS, and modern web technologies.<br />
 Explore my <a href="https://bit.ly/personal-homepage">portfolio</a> to see how I implement these skills in real projects. <br />
+<br />
 Currently seeking new job opportunities in the frontend development field. Feel free to reach out! 🌍
 </p>
 
