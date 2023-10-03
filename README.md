@@ -5,7 +5,7 @@ Explore my GitHub to see how I implement these skills in real projects. <br />
 <br />
 Currently seeking new job opportunities in the frontend development field. Feel free to reach out! 🌍<br />
 <br />
-<strong>micowsiak@gmail.com</strong>
+✉️ micowsiak@gmail.com
 </p>
 
 <!--
