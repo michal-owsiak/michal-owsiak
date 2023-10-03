@@ -1,12 +1,13 @@
 <p align="center">
-<strong>Hi, it's Michał 👋</strong><br />
-Frontend Developer with proficiency in React. Skilled in JavaScript, CSS, and modern web technologies.<br />
-Explore my GitHub to see how I implement these skills in real projects. <br />
-<br />
-Currently seeking new job opportunities in the frontend development field. Feel free to reach out! 🌍<br />
-<br />
-✉️ <code>micowsiak@gmail.com</code>
-
+  <strong>Hi, it's Michał 👋</strong><br />
+  <br />
+  Frontend Developer with proficiency in React. Skilled in JavaScript, CSS, and modern web technologies.<br />
+  Explore my GitHub to see how I implement these skills in real projects. <br />
+  <br />
+  Currently seeking new job opportunities in the frontend development field. Feel free to reach out! 🌍<br />
+  <br />
+  ✉️ <code>micowsiak@gmail.com</code>
+</p>
 <!--
 **michal-owsiak/michal-owsiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
