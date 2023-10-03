@@ -3,9 +3,10 @@
 Frontend Developer with proficiency in React. Skilled in JavaScript, CSS, and modern web technologies.<br />
 Explore my GitHub to see how I implement these skills in real projects. <br />
 <br />
-Currently seeking new job opportunities in the frontend development field. Feel free to reach out! 🌍
+Currently seeking new job opportunities in the frontend development field. Feel free to reach out! 🌍<br />
+<br />
+<strong>micowsiak@gmail.com</strong>
 </p>
-<code>micowsiak@gmail.com</code>
 
 <!--
 **michal-owsiak/michal-owsiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
