@@ -12,7 +12,7 @@
   Additional skills:
   <br />
   <br />
-  (<code>JavaScript</code>, <code>React.js</code>)
+  <code>JavaScript</code>, <code>React.js</code>
   <br />
   <br />
   Feel free to contact me:
