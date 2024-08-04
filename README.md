@@ -11,5 +11,6 @@
   <code>Python</code> <code>SQL</code> <code>JupyterNotebooks</code>
   <br />
   <br />
+  Feel free to contact me: <br />
   ✉️ <code>micowsiak@gmail.com</code>
 </p>
