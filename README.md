@@ -5,7 +5,7 @@
   My additional skills include frontend development (<code>JavaScript</code>, <code>React.js</code>).
   <br />
   <br />
-  My Data Science stack includes:
+  My data science stack includes:
   <br />
   <br />
   <code>Python</code>, <code>SQL</code>, <code>Jupyter Notebooks</code>
