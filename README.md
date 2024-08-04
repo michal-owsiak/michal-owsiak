@@ -2,7 +2,7 @@
   <strong>Hi, I'm Michał Owsiak 👋</strong><br />
   <br />
   Aspiring data scientist experienced with data mining, processing, analysis, and machine learning modeling.<br />
-  My additional skills include frontend development (<code>JavaScript</code>, <code>React.js</code>).
+  My additional skills comprise frontend development (<code>JavaScript</code>, <code>React.js</code>).
   <br />
   <br />
   My data science stack includes:
