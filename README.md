@@ -3,7 +3,6 @@
   <br />
   Aspiring data scientist experienced with data mining, processing, analysis, and machine learning modeling.<br />
   <br />
-  <br />
   My data science stack includes:
   <br />
   <br />
