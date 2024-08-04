@@ -5,7 +5,7 @@
   My additional skills include frontend developement (`JavaScript`, `React.js`)
   <br />
   <br />
-  `Python` `SQL` `JupyterNotebooks`
+  <code>Python</code> <code>SQL</code> <code>JupyterNotebooks</code>
   <br />
   ✉️ <code>micowsiak@gmail.com</code>
 </p>
