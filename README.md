@@ -6,7 +6,7 @@
   My data science stack includes:
   <br />
   <br />
-  <code>Python</code>, <code>SQL</code>, <code>Jupyter Notebooks</code>
+  <code>Python</code>, <code>SQL</code>, <code>Jupyter Notebook</code>
   <br />
   <br />
   Additional skills:
