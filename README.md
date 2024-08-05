@@ -9,7 +9,7 @@
   <code>Python</code>, <code>SQL</code>, <code>Jupyter Notebook</code>, <code>PostgreSQL</code>, <code>SPSS Statistics</code>
   <br />
   <br />
-  Additional skills in front-end web developement:
+  Additional skills in front-end web development:
   <br />
   <br />
   <code>JavaScript</code>, <code>React.js</code>
