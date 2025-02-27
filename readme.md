@@ -6,7 +6,7 @@
   My data stack includes:
   <br />
   <br />
-  <code>Python</code>, <code>T-SQL</code>, <code>Oracle</code>, <code>Jupyter Notebook</code>
+  <code>Python</code>, <code>T-SQL</code>, <code>NoSQL</code>, <code>Oracle</code>, <code>Jupyter Notebook</code>
   <br />
   <br />
   Additional skills in front-end web development:
