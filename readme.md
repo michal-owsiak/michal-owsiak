@@ -1,12 +1,12 @@
 <p align="center">
   <strong>Hi, I'm Michał Owsiak 👋</strong><br />
   <br />
-  Data engineer & aspiring data scientist experienced with building data pipelines, data mining, processing, analysis, and machine learning modeling.<br />
+  Data Engineer & aspiring Data Scientist with experience in ETL development, data pipeline orchestration, data mining, processing, analysis, and machine learning modeling.<br />
   <br />
-  My data stack includes:
+  My tech stack:
   <br />
   <br />
-  <code>Python</code>, <code>T-SQL</code>, <code>NoSQL</code>, <code>Oracle</code>, <code>Jupyter Notebook</code>
+  <code>Python</code> <code>T-SQL</code> <code>NoSQL</code> <code>Oracle</code>
   <br />
   <br />
   Additional skills in front-end web development:
@@ -15,8 +15,8 @@
   <code>JavaScript</code>, <code>React.js</code>
   <br />
   <br />
-  Feel free to contact me:
+  <strong>Let's connect:</strong>
   <br />
   <br />
-  ✉️ <code>micowsiak@gmail.com</code>
+  📫 <a href="mailto:micowsiak@gmail.com">Email me</a> |
 </p>
