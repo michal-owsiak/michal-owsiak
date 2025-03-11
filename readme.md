@@ -18,5 +18,5 @@
   <strong>Let's connect:</strong>
   <br />
   <br />
-  📫 <a href="mailto:micowsiak@gmail.com">E-mail me</a>
+  📫 <code>micowsiak@gmail.com</code>
 </p>
