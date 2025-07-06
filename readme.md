@@ -6,7 +6,7 @@
   My tech stack:
   <br />
   <br />
-  <code>Python</code> <code>T-SQL</code> <code>Oracle</code> <code>JavaScript</code>
+  <code>Python</code> <code>T-SQL</code> <code>Oracle</code>
   <br />
   <br />
   Additional skills in front-end web development:
