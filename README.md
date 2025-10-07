@@ -1,10 +1,11 @@
 <p align="center">
   Data Engineer with experience in SQL-based data processing, reporting automation, and Python scripting. Strong analytical background and a growing focus on data science and ML.
   <br />
+  <br />
   <strong>⚙️ Tech stack:</strong>
   <br />
   <br />
-  <strong>Languages & tools: </strong>
+  <strong>Languages: </strong>
   <code>Python</code> <code>T-SQL</code> <code>R</code>
   <br />
   <br />
