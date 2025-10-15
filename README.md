@@ -1,5 +1,5 @@
 <p align="center">
-  Data Engineer with experience in SQL-based data processing, reporting automation, and Python scripting. Strong analytical background and a growing focus on data science and ML.
+  Data Engineer with hands-on experience in SQL-driven data workflows, ETL automation, and Python development. Strong analytical background, with a growing focus on data science and machine learning.
   <br />
   <br />
   <strong>⚙️ Tech stack:</strong>
