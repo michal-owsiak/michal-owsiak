@@ -1,5 +1,5 @@
 <p align="center">
-  Data Engineer with hands-on experience in SQL-driven data workflows, ETL automation, and Python development. < br />
+  Data Engineer with hands-on experience in SQL-driven data workflows, ETL automation, and Python development. <br />
   Strong analytical background, with a growing focus on data science and machine learning.
   <br />
   <br />
