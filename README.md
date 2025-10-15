@@ -11,7 +11,7 @@
   <br />
   <br />
   <strong>Data & ML: </strong>
-  <code>TensorFlow | Keras</code> <code>scikit-learn</code> <code>SciPy</code> <code>Pandas</code> <code>NumPy</code> <code>Matplotlib</code> <code>Seaborn</code>
+  <code>TensorFlow | Keras</code> <code>Scikit-learn</code> <code>SciPy</code> <code>Pandas</code> <code>NumPy</code> <code>Matplotlib</code> <code>Seaborn</code>
   <br />
   <br />
   <strong>Let's connect: </strong>
