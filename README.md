@@ -1,5 +1,5 @@
 <p align="center">
-  Data Engineer with hands-on experience in SQL-driven data workflows and Python data processing. <br />
+  Data Engineer and Analyst with hands-on experience in SQL-based data workflows and Python-driven data processing. <br />
   Strong analytical background with a growing focus on data science and machine learning.
   <br />
   <br />
