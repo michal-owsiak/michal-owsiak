@@ -1,12 +1,12 @@
 <p align="center">
-  Data Engineer and Analyst with hands-on experience in SQL-based data workflows and Python-driven data processing. <br />
-  Strong analytical background with a growing focus on data science and machine learning.
+  Data Engineer transitioning into Data Science, with hands-on experience in SQL-based data workflows and Python-driven data processing. <br />
+  Strong analytical background with growing focus on machine learning and applied AI.
   <br />
   <br />
   <strong>⚙️ Tech stack:</strong>
   <br />
   <br />
-  <strong>Languages: </strong>
+  <strong>Languages & Query: </strong>
   <code>Python</code> <code>T-SQL</code> <code>R</code>
   <br />
   <br />
