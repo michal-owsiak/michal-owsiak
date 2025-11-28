@@ -1,5 +1,5 @@
 <p align="center">
-  Data Engineer transitioning into Data Science, with hands-on experience in SQL-based data workflows and Python-driven data processing. <br />
+  Data Engineer transitioning into Data Science, with hands-on experience in SQL workflows and Python data processing. <br />
   Strong analytical background with growing focus on machine learning and applied AI.
   <br />
   <br />
