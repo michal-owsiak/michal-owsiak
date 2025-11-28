@@ -7,7 +7,7 @@
   <br />
   <br />
   <strong>Languages & Query: </strong>
-  <code>Python</code> <code>T-SQL</code> <code>R</code>
+  <code>Python</code> <code>R</code> <code>T-SQL</code> 
   <br />
   <br />
   <strong>Data & ML: </strong>
