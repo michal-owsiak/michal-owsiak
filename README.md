@@ -3,7 +3,9 @@
   Strong analytical background with growing interest in Data Science and applied machine learning.
   <br />
   <br />
+  <br />
   <strong>⚙️ Tech stack:</strong>
+  <br />
   <br />
   <br />
   <strong>Languages: </strong>
@@ -24,6 +26,7 @@
   <br />
   <strong>DevOps: </strong>
   <code>Docker</code> <code>GitHub Actions</code>
+  <br />
   <br />
   <br />
   📫 <code>micowsiak@gmail.com</code>
