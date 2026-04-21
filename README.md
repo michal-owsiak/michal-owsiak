@@ -31,4 +31,5 @@
   <br />
   <br />
   📫 <code>micowsiak@gmail.com</code>
+  <br />
 </p>
