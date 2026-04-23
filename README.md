@@ -9,7 +9,7 @@
   <br />
   <br />
   <strong>Languages: </strong>
-  <code>Python</code> · <code>SQL (T-SQL, Snowflake)</code>
+  <code>Python</code> · <code>SQL (T-SQL, Snowflake SQL)</code>
   <br />
   <br />
   <strong>Data Engineering: </strong>
