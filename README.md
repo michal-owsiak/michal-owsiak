@@ -1,6 +1,6 @@
 <p align="center">
   Data Engineer with hands-on experience in building and maintaining data pipelines, SQL workflows, and cloud-native data platforms. <br />
-  Strong analytical background with growing interest in Data Science and applied machine learning.
+  Strong analytical background with growing interest in applied machine learning.
   <br />
   <br />
   <br />
