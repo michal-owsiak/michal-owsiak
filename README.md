@@ -28,10 +28,13 @@
   <code>Docker</code> · <code>GitHub Actions</code>
   <br />
   <br />
-  <strong>Certifications</strong>
+  <br />
+  <br />
+  <strong>Certifications:</strong>
   <br />
   <br />
   <img src="https://i.postimg.cc/ZRd3mvNm/a7e8006b3cc47756364a505f7476973cd1695df6-2160x2160-(1).png" alt="dbt Certified Analytics Engineering Developer" width="170"/>
+  <br />
   <br />
   <br />
   <br />
