@@ -33,6 +33,7 @@
   <strong>Certifications:</strong>
   <br />
   <br />
+  <br />
     <a href="https://credentials.getdbt.com/964b4c26-8b50-4a4c-9cb6-69681187fb9d#acc.oK6UVI1s" target="_blank">
     <img
         src="https://i.postimg.cc/ZRd3mvNm/a7e8006b3cc47756364a505f7476973cd1695df6-2160x2160-(1).png"
