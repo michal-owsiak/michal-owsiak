@@ -13,7 +13,7 @@
   <br />
   <br />
   <strong>Data Engineering: </strong>
-  <code>Snowflake</code> · <code>dbt</code> · <code>Airflow</code>
+  <code>Snowflake</code> · <code>dbt</code> · <code>Airflow</code> · <code>Azure</code>
   <br />
   <br />
   <strong>Data Analysis & Visualization: </strong>
@@ -40,6 +40,14 @@
         alt="dbt Certified Analytics Engineering Developer"
         width="150"
     />
+    </a>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://learn.microsoft.com/pl-pl/users/michaowsiak-5558/credentials/31e77cac0f401ae2">
+        <img
+        src="https://i.postimg.cc/5yPQmmKw/microsoft-certified-fundamentals-badge-1.png"
+        alt="Microsoft Certified: Azure Fundamentals"
+        width="150"
+        />
     </a>
   <br />
   <br />
