@@ -16,7 +16,7 @@ Data Engineer working with Python, SQL, Databricks, Azure, Snowflake, and dbt to
   <br />
   <br />
   <strong>Machine Learning: </strong>
-  <code>Scikit-learn</code> · <code>TensorFlow</code> · <code>Keras</code>
+  <code>Scikit-learn</code> · <code>TensorFlow</code>
   <br />
   <br />
   <strong>DevOps: </strong>
