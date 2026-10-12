@@ -1,6 +1,5 @@
 <p align="center">
-  Data Engineer with hands-on experience in building and maintaining data pipelines, SQL workflows, and cloud-native data platforms.
-  Strong analytical background with growing interest in applied machine learning.
+Data Engineer working with Python, SQL, Databricks, Azure, Snowflake, and dbt to build reliable data pipelines and modern data platforms. Strong analytical background with a growing interest in applied machine learning.
   <br />
   <br />
   <br />
@@ -9,15 +8,11 @@
   <br />
   <br />
   <strong>Languages: </strong>
-  <code>Python</code> · <code>SQL (T-SQL, Snowflake SQL)</code>
+  <code>Python</code> · <code>SQL</code>
   <br />
   <br />
   <strong>Data Engineering: </strong>
-  <code>Snowflake</code> · <code>dbt</code> · <code>Airflow</code> · <code>Azure</code>
-  <br />
-  <br />
-  <strong>Data Analysis & Visualization: </strong>
-  <code>Pandas</code> · <code>NumPy</code> · <code>SciPy</code> · <code>Matplotlib</code> · <code>Seaborn</code> · <code>Plotly</code> 
+  <code>Databricks</code> ·  <code>Azure</code> · <code>Snowflake</code> · <code>dbt</code> · <code>Airflow</code>
   <br />
   <br />
   <strong>Machine Learning: </strong>
@@ -25,7 +20,7 @@
   <br />
   <br />
   <strong>DevOps: </strong>
-  <code>Docker</code> · <code>GitHub Actions</code>
+  <code>Azure DevOps</code> · <code>Docker</code> · <code>GitHub Actions</code>
   <br />
   <br />
   <br />
