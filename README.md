@@ -20,7 +20,7 @@ Data Engineer working with Python, SQL, Databricks, Azure, Snowflake, and dbt to
   <br />
   <br />
   <strong>DevOps: </strong>
-  <code>Azure DevOps</code> · <code>Docker</code> · <code>GitHub Actions</code>
+  <code>Azure DevOps</code> · <code>GitHub Actions</code> · <code>Docker</code>
   <br />
   <br />
   <br />
