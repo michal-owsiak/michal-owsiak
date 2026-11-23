@@ -12,7 +12,7 @@ Data Engineer working with Python, SQL, Databricks, Azure, Snowflake, and dbt to
   <br />
   <br />
   <strong>Data Engineering: </strong>
-  <code>Databricks</code> ·  <code>Azure</code> · <code>Snowflake</code> · <code>dbt</code> · <code>Airflow</code>
+  <code>Databricks</code> · <code>Azure</code> · <code>Snowflake</code> · <code>dbt</code> · <code>Airflow</code>
   <br />
   <br />
   <strong>Machine Learning: </strong>
@@ -28,10 +28,12 @@ Data Engineer working with Python, SQL, Databricks, Azure, Snowflake, and dbt to
   <strong>Certifications:</strong>
   <br />
   <br />
+</p>
 
 <p align="center">
-  <a href="https://credentials.getdbt.com/964b4c26-8b50-4a4c-9cb6-69681187fb9d#acc.oK6UVI1s"><img src="https://i.postimg.cc/ZRd3mvNm/a7e8006b3cc47756364a505f7476973cd1695df6-2160x2160-(1).png" alt="dbt Certified Developer" width="120"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://learn.microsoft.com/pl-pl/users/michaowsiak-5558/credentials/31e77cac0f401ae2"><img src="https://i.postimg.cc/ncspsK7n/az900.png" alt="Microsoft Certified: Azure Fundamentals" width="120"></a>
-</p align="center">
+  <a href="https://credentials.getdbt.com/964b4c26-8b50-4a4c-9cb6-69681187fb9d#acc.oK6UVI1s"><img src="https://i.postimg.cc/ZRd3mvNm/a7e8006b3cc47756364a505f7476973cd1695df6-2160x2160-(1).png" alt="dbt Certified Developer" width="120"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://verify.openedg.org/?id=X7tG.rMJk.wE3x"><img src="https://i.postimg.cc/qvbX7R7F/11b49ad8f1da62e9e3c4313b68f89f81b79c92e5.png" alt="PCAP – Certified Associate Python Programmer" width="120"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://learn.microsoft.com/pl-pl/users/michaowsiak-5558/credentials/31e77cac0f401ae2"><img src="https://i.postimg.cc/ncspsK7n/az900.png" alt="Microsoft Certified: Azure Fundamentals" width="120"></a>
+</p>
+
 <p align="center">
   <br />
   <br />
@@ -39,4 +41,4 @@ Data Engineer working with Python, SQL, Databricks, Azure, Snowflake, and dbt to
   📫 <code>micowsiak@gmail.com</code>
   <br />
   <br />
-</p align="center">
+</p>
